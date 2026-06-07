@@ -25,7 +25,7 @@
 <h2>🚀 Live Demo</h2>
 
 <p align="center">
-  <a href="shankar-sala.github.io/Quiz-Game/" target="_blank">
+  <a href="https://shankar-sala.github.io/Quiz-Game/" target="_blank">
     🔗 Visit Live Website
   </a>
 </p>
