@@ -25,7 +25,7 @@
 <h2>🚀 Live Demo</h2>
 
 <p align="center">
-  <a href="https://your-netlify-link.netlify.app/" target="_blank">
+  <a href="https://quiz-game-2.netlify.app/" target="_blank">
     🔗 Visit Live Website
   </a>
 </p>
