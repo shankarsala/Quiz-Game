@@ -35,7 +35,7 @@
 <h2>📸 Project Preview</h2>
 
 <p align="center">
-  <img src="./images/screenshot1.png" alt="Quiz Start Screen" width="100%">
+  <img src="./images/Screenshot1.png" alt="Quiz Start Screen" width="100%">
 </p>
 
 <br>
